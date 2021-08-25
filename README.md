@@ -4,6 +4,7 @@
 
 1. [Mapa mental Modelos](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Mapa_mental_1687417.pdf) 
 2. [Ejercicio 1 Bases de Datos](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Equipo_()-ejercicio%20base%20de%20datos.pdf)
+3. [Ejercicio 2 Phyton](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Ej_Phyton_1687417.ipynb)
 # #Etapa 2
 
 # #Etapa 3
