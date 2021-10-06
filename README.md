@@ -12,5 +12,6 @@
 7. [Codigo_Visualizacion_Equipo_6](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/visualizacion_Equipo6.ipynb)
 8. [Preguntas_Visualizacion_Equipo_6](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Preguntas_respuesta.pdf)
 9. [Presentacion_Visualizacion_Equipo_6](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Tecnica_Visualizacio%CC%81n_Equipo6.pdf)
+10. [Visualizacion Equipo 6](https://github.com/GonzalezFcoJavier/IntroR/blob/master/Visualizacion_Equipo6.ipynb)
 
 # #Etapa 3
