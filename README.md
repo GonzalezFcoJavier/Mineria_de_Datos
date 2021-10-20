@@ -17,3 +17,4 @@
 12. [AvancePIA_II_Grupo002_Equipo6.](https://github.com/GonzalezFcoJavier/IntroR/blob/master/AvancePIA_II_Grupo002_Equipo6.ipynb)
 
 # #Etapa 3
+13. [Notebook_final](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/Notebook_final.ipynb)
