@@ -18,3 +18,4 @@
 
 # #Etapa 3
 13. [Notebook_final](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/Notebook_final.ipynb)
+14. [Poster](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/Poster%20Equipo%206.pdf)
