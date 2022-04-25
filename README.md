@@ -17,5 +17,7 @@
 12. [AvancePIA_II_Grupo002_Equipo6.](https://github.com/GonzalezFcoJavier/IntroR/blob/master/AvancePIA_II_Grupo002_Equipo6.ipynb)
 
 # #Etapa 3
-13. [Notebook_final](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/Notebook_final.ipynb)
-14. [Poster](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/Poster%20Equipo%206.pdf)
+13. [Notebook_previo](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/Notebook_final.ipynb)
+14. [Poster previo](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/Poster%20Equipo%206.pdf)
+15. [Notebook final](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/Notebook.ipynb)
+16. [Poster final](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/P%C3%B3ster_Final.pdf)
